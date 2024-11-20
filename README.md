@@ -1,29 +1,30 @@
-# Página de Receita de Cupcake de Café
+# Coffee Cupcake Recipe Page
 
-## Descrição do Projeto
+## Project Description
 
-Este projeto é uma página web dedicada a uma deliciosa receita de Cupcake de Café com Chantilly. A ideia é proporcionar uma experiência visual e informativa para os amantes de culinária, permitindo que eles aprendam a fazer essa receita de forma simples e prática. A página inclui informações sobre os ingredientes, o modo de preparo, além de um design responsivo e atraente que utiliza fontes elegantes e imagens de alta qualidade.
+This project is a web page dedicated to a delicious Coffee Cupcake with Whipped Cream recipe. The idea is to provide a visual and informative experience for food lovers, allowing them to learn how to make this recipe in a simple and practical way. The page includes information about the ingredients, preparation steps, as well as a responsive and attractive design that uses elegant fonts and high-quality images.
 
-### Funcionalidades
+### Features
 
-- **Design Atraente**: Utiliza uma paleta de cores suave e uma tipografia elegante para tornar a leitura agradável.
-- **Receita Completa**: Inclui todos os ingredientes necessários e um passo a passo detalhado para o preparo.
-- **Imagens**: Apresenta imagens de alta qualidade do cupcake e dos processos de preparo, tornando a experiência visualmente rica.
-- **Responsividade**: A página é otimizada para diferentes tamanhos de tela, garantindo uma boa experiência em dispositivos móveis.
+- **Attractive Design**: Uses a soft color palette and elegant typography to make reading enjoyable.
+- **Complete Recipe**: Includes all necessary ingredients and a detailed step-by-step guide for preparation.
+- **Images**: Displays high-quality images of the cupcake and preparation processes, enriching the visual experience.
+- **Responsiveness**: The page is optimized for different screen sizes, ensuring a good experience on mobile devices.
 
-### Tecnologias Utilizadas
+### Technologies Used
 
 - HTML5
 - CSS3
 - Google Fonts
-- Imagens otimizadas
+- Optimized Images
 
-### Como Usar
+### How to Use
 
-1. Clone o repositório ou baixe os arquivos do projeto.
-2. Abra o arquivo `index.html` em um navegador web.
-3. Siga a receita e aproveite seus cupcakes!
+1. Clone the repository or download the project files.
+2. Open the `index.html` file in a web browser.
+3. Follow the recipe and enjoy your cupcakes!
 
-### Contribuições
+### Contributions
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir um pull request ou relatar problemas.
+Contributions are welcome! Feel free to open a pull request or report issues.
+"""
